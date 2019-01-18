@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #2f3e73
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, Courier New, monospace
+}
+
+@font-face {
+    font-family: SEGA LOGO FONT;
+    font-style: normal;
+    font-weight: 400;
+    src: local("SEGA LOGO FONT"), url(../media/SEGA.82e09f78.TTF) format("truetype")
+}
+
+h1 {
+    font-family: SEGA LOGO FONT;
+    font-weight: 400;
+    color: #0ccac4
+}
+
+/*# sourceMappingURL=main.34512f6a.chunk.css.map */
